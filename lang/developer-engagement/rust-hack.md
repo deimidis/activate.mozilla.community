@@ -86,7 +86,7 @@ Acompanhado ao fluxo recomendado de evento aqui estão algumas coisas que nós g
 
 * Preencha as medidas pós-evento na pagina de evento que você submeteu ao portal Reps
 * Opcionalmente, nos conte sobre seu evento. Isso pode ser antes ou depois. Nós amamos ouvir sobre planos futuros, e é claro, amamos saber a respeito do que foi alcançado no evento com uma foto ou duas! Isso também será educativo e inspirador para outros que podem fazer um evento.
-    * [Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
+    * [Aqui está o post de discussão para participar](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
 
 ## Extra
 Embora o foco desta atividade deve ser nesses eventos, também existem outras maneiras de permanecer mais envolvido com a comunidade Rust posteriormente.
