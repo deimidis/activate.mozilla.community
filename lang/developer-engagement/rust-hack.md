@@ -80,7 +80,7 @@ Aqui estão duas opções para facilitação:
 
 * [O excelente tutorial de Niko Matsakis](https://github.com/nikomatsakis/rust-tutorials-keynote)
 * [Exercícios para acompanhar esse tutorial](https://github.com/nikomatsakis/rust-tutorializer)
-* [Uma screencast de Niko sobre ownership and borrowing](https://www.youtube.com/watch?v=0sOiiIxbE6k)
+* [Uma screencast de Niko sobre ownership e borrowing](https://www.youtube.com/watch?v=0sOiiIxbE6k)
 ## Produção
 Acompanhado ao fluxo recomendado de evento aqui estão algumas coisas que nós gostariamos que você, o organizador do evento, faça.
 
