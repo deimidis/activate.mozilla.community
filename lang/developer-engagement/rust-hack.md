@@ -2,7 +2,7 @@
 layout: page
 title:  "Mergulhe no Rust"
 permalink: /lang/developer-engagement/rust-hack
-lang: lang
+lang: pt
 ref: rust-hack
 parent: developer-engagement
 ---
