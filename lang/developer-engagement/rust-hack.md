@@ -37,7 +37,7 @@ Introduza sua comunidade nessa animadora nova linguagem de programação organiz
 
 1. Reuna uma equipe de eventos
 2. Escolha uma data e local
-3. Decida se organizará sozinho ou com alguem que tem experiencia com Rust(veja abaixo)
+3. Decida se organizará sozinho ou com alguém que tem experiência com Rust(veja abaixo)
 4. Submeta o evento no Portal Reps ([Instruções](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))
 
 
@@ -47,7 +47,7 @@ Aqui estão duas opções para facilitação:
 
 1. Recrute uma pessoa com experiência em Rust para participar e prover guia para os participantes. Aqui estão algumas maneiras de encontrar experts em Rust para recrutar:
     * Busque em [Equipe Comunitária](https://www.rust-lang.org/en-US/team.html#Community-team) - eles conhecem as pessoas mais ativas da maioria das regiões.
-    * Através de [Grupos de_usuários](https://www.rust-lang.org/en-US/user-groups.html)
+    * Através de [Grupos de usuários](https://www.rust-lang.org/en-US/user-groups.html)
     * Em [Rustaceans.org](http://www.rustaceans.org/)
    
     
@@ -58,7 +58,7 @@ Aqui estão duas opções para facilitação:
 * Instalar Rust
     * [Rustup](www.rustup.rs) - recomendado
     * [Rust downloads](https://www.rust-lang.org/downloads.html) (alternativo)
-* Leia o [Rust book](https://doc.rust-lang.org/stable/book/)
+* Leia o [livro Rust](https://doc.rust-lang.org/stable/book/)
 * Complete o [Rustlings](https://github.com/carols10cents/rustlings) (um ótimo guia para iniciantes!)
 * Alguns projetos com grandes primeiros bugs:
     * A linguagem Rust e compilador
@@ -81,10 +81,10 @@ Aqui estão duas opções para facilitação:
 * [O excelente tutorial de Niko Matsakis](https://github.com/nikomatsakis/rust-tutorials-keynote)
 * [Exercícios para acompanhar esse tutorial](https://github.com/nikomatsakis/rust-tutorializer)
 * [Uma screencast de Niko sobre ownership e borrowing](https://www.youtube.com/watch?v=0sOiiIxbE6k)
-## Produção
+## Após o evento
 Acompanhado ao fluxo recomendado de evento aqui estão algumas coisas que nós gostariamos que você, o organizador do evento, faça.
 
-* Preencha as medidas pós-evento na pagina de evento que você submeteu ao portal Reps
+* Preencha as medidas pós-evento na página de evento que você submeteu ao portal Reps
 * Opcionalmente, nos conte sobre seu evento. Isso pode ser antes ou depois. Nós amamos ouvir sobre planos futuros, e é claro, amamos saber a respeito do que foi alcançado no evento com uma foto ou duas! Isso também será educativo e inspirador para outros que podem fazer um evento.
     * [Aqui está o post de discussão para participar](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)
 
